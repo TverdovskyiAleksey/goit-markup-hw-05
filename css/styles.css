@@ -837,7 +837,7 @@ h5 {
 }
 
 .modal-logo {
-  fill: black;
+  fill: var(--title-text-color);
 }
 
 .modal-logo:hover,
